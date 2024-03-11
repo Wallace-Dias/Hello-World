@@ -6,5 +6,5 @@
 
 ---
 ## **Tarefas** 
-- [ ] Melhorar o repositório Hello-World
+- [x] Atualizar o Readme do repositório Hello-World
 - [ ] Melhorar o Readme
