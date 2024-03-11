@@ -11,4 +11,11 @@
 
 ---
 ## **Testes de Markdown**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/wallacemdias)
+
+### **Tabela**
+num | Nome | Nota
+--- | --- | ---
+ 1 | Alan | 8
+2 | Carlos | 6
+3 | Natália | 9
+
